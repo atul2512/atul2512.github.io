@@ -3,10 +3,10 @@ layout: post
 title: We are our choices
 ---
 
-## Summary of Jeff Bezos commencement speech
+#### Summary of Jeff Bezos commencement speech at Princeton University
 
 
-**How will you use your gifts? What choices will you make?**
+How will you use your gifts? What choices will you make?
 
 - Will inertia be your guide, or will you follow your passion?
 - Will you follow dogma, or will you be original?
