@@ -10,7 +10,7 @@ If you can't sell, it didn't happen. [Always tell a story](https://twitter.com/c
 
 
 ### Life
-Best Career Advice. [Tyler Durden is wrong, You are your job](https://moxie.org/stories.html)
+Best Career Advice. [Tyler Durden is wrong, You are your job](https://moxie.org/blog/career-advice/)
 
 Day dreaming your future self [Later is where dreams go to die](https://twitter.com/ShaneAParrish/status/1222177920879341573)
 
