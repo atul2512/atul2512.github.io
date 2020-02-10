@@ -18,13 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bits, Brush & Biz
+title: Bits, Brush, Biz....Beer
 #email: 
 description: Reddit of my experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atulag_92
 github_username:  atul2512
+google_analytics: UA—XXXXXXXX-X
+
 
 # Build settings
 theme: minima
