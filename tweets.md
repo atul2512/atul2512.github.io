@@ -19,8 +19,6 @@ permalink: /clips/
 ### Product
 * Gamification and Product Management [Addiction ](https://medium.com/@anupgopinath/the-art-of-gamification-in-product-management-d903c949273d)
 
-* [Great Podcasts](https://twitter.com/manas_saloi/status/1234008395801223168)
-
 
 ### Others
 * Making the right choice. [Avoiding stupidity over seeking brilliance](https://twitter.com/ShaneAParrish/status/1176844639057436673)
