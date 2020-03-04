@@ -6,15 +6,22 @@ permalink: /clips/
 
 
 ### Skills
-If you can't sell, it didn't happen. [Always tell a story](https://twitter.com/cameronmoll/status/1192489653980418048)
+* If you can't sell, it didn't happen. [Always tell a story](https://twitter.com/cameronmoll/status/1192489653980418048)
+
+* Importance of communication [If you don't communicate, they will attempt to find a signal in the noise](https://boz.com/articles/communication-is-the-job)
 
 
 ### Life
-Best Career Advice. [Tyler Durden is wrong, You are your job](https://moxie.org/blog/career-advice/)
+* Best Career Advice. [Tyler Durden is wrong, You are your job](https://moxie.org/blog/career-advice/)
 
-Day dreaming your future self [Later is where dreams go to die](https://twitter.com/ShaneAParrish/status/1222177920879341573)
+* Day dreaming your future self [Later is where dreams go to die](https://twitter.com/ShaneAParrish/status/1222177920879341573)
+
+### Product
+* Gamification and Product Management [Addiction ](https://medium.com/@anupgopinath/the-art-of-gamification-in-product-management-d903c949273d)
+
+* [Great Podcasts](https://twitter.com/manas_saloi/status/1234008395801223168)
 
 
 ### Others
-Making the right choice. [Avoiding stupidity over seeking brilliance](https://twitter.com/ShaneAParrish/status/1176844639057436673)
+* Making the right choice. [Avoiding stupidity over seeking brilliance](https://twitter.com/ShaneAParrish/status/1176844639057436673)
 
