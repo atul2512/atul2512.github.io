@@ -10,11 +10,15 @@ permalink: /clips/
 
 * Importance of communication [If you don't communicate, they will attempt to find a signal in the noise](https://boz.com/articles/communication-is-the-job)
 
+* Second Order Thinking [And then what?](https://fs.blog/2016/04/second-order-thinking/)
+
 
 ### Life
 * Best Career Advice. [Tyler Durden is wrong, You are your job](https://moxie.org/blog/career-advice/)
 
 * Day dreaming your future self [Later is where dreams go to die](https://twitter.com/ShaneAParrish/status/1222177920879341573)
+
+* Read [Reading isn’t something to be done once a week to check a box; it’s something to do every day.](https://fs.blog/2013/09/finding-time-to-read/)
 
 ### Product
 * Gamification and Product Management [Addiction ](https://medium.com/@anupgopinath/the-art-of-gamification-in-product-management-d903c949273d)
