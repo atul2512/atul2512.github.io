@@ -1,5 +1,5 @@
 ---
-layout: page
-title: Notes
-permalink: /notes/
+layout: notes
+title: Notes from the Internet
+permalink: /notes
 ---
