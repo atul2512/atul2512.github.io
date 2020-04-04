@@ -23,7 +23,7 @@ permalink: /clips/
 ### Product
 * Gamification and Product Management [Addiction ](https://medium.com/@anupgopinath/the-art-of-gamification-in-product-management-d903c949273d)
 
-* Word of Mouth Engineered [Acquisition for $1](https://medium.com/gabor/9-ways-to-build-virality-into-your-product-5975e1fe74e3) [Neil Patel](https://neilpatel.com/blog/recipe-of-viral-features/) [One Video](https://www.youtube.com/watch?v=ZUG9qYTJMsI)
+* Word of Mouth Engineered [Acquisition for $1](https://medium.com/gabor/9-ways-to-build-virality-into-your-product-5975e1fe74e3), [Neil Patel](https://neilpatel.com/blog/recipe-of-viral-features/), [One Video](https://www.youtube.com/watch?v=ZUG9qYTJMsI)
 
 * Deriving revenue from value [Monetisation](https://www.departmentofproduct.com/blog/product-monetization-strategies/)
 
