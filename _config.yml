@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bits, Brush & Biz
+title: Atul Agrawal 
 #email: 
-description: Reddit of my experiences.
+description: 90% true - 10% - Boast
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://atul-agrawal.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atulag_92
 github_username:  atul2512
 google_analytics: UA—XXXXXXXX-X
@@ -37,7 +37,6 @@ collections:
   notes:
     output: true
     permalink: /notes/:year/:month/:day/:title:output_ext
-    sort: date
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

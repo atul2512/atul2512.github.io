@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decoding Good and bad Product Management"
+title: "Good and Bad Product Manager"
 tags: notes
 ---
 
@@ -38,7 +38,8 @@ This is my summary of famous article written by Ben Horwoitz [Good Product Manag
 - Be Discipline. Good product managers send their status reports in on time every week, because they are disciplined. Bad product managers forget to send in their status reports on time, because they don’t value discipline. (Low)
 
 
-*Overall*: I am an okayish PM. Need to improve on:
-	- Stating the obvious
-	- Proactively share status reports
-	- Spend less time on program management 
+*Overall*: I need to improve on:
+- Stating the obvious
+- Proactively share status reports
+- Spend less time on program management
+- Spend more time on the next thing that should be built
