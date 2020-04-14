@@ -27,6 +27,8 @@ permalink: /clips/
 
 * Deriving revenue from value [Monetisation](https://www.departmentofproduct.com/blog/product-monetization-strategies/)
 
+* Increasing Conversio [Keeping user in Flow](https://www.lennyrachitsky.com/p/this-week-21-strategy-and-tactics)
+
 
 
 ### Others
